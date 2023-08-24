@@ -25,6 +25,4 @@ A front end developer from Germany.
 
 ---
 
-Hello, I'm Mezo (Joshua) and I'm a new front end developer from North Rhine-Westphilia, Germany. Currently diving deep into the world of web development, with a focus on JavaScript, HTML, and CSS. 
-
-Passionate about crafting user-friendly web experiences and always eager to learn and collaborate. Feel free to reach out to me.
+Below you can see my popular repositories and find out more about my GitHub page.
