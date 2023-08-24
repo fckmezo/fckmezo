@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+<h1>
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  
+A front end developer from Germany.
 
-<!--
-**fckmezoGH/fckmezoGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://www.reddit.com/u/fckmezo">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  </a>
+  <a href="https://discord.gg/S8yFZ5VvKH">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.twitter.com/fckmezo">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fckmezoGH&theme=dracula&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fckmezoGH&rank_icon=github&theme=dracula&background=000000)
