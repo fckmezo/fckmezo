@@ -22,3 +22,9 @@ A front end developer from Germany.
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fckmezoGH&theme=dracula&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fckmezoGH&rank_icon=github&theme=dracula&background=000000)
+
+---
+
+Hello, I'm Mezo (Joshua) and I'm a new front end developer from North Rhine-Westphilia, Germany. Currently diving deep into the world of web development, with a focus on JavaScript, HTML, and CSS. 
+
+Passionate about crafting user-friendly web experiences and always eager to learn and collaborate. Feel free to reach out to me.
