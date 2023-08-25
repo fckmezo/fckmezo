@@ -22,6 +22,8 @@ A front end developer from Germany.
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fckmezo&theme=dracula&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fckmezo&show_icons=true&theme=dracula)
+
 ---
 
 Below you can see my pinned repositories and find out more about my GitHub page.
