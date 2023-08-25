@@ -22,8 +22,10 @@ A front end developer from Germany.
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fckmezo&theme=dracula&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fckmezo&show_icon=true&theme=dracula&background=000000)
-
 ---
 
 Below you can see my pinned repositories and find out more about my GitHub page.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
