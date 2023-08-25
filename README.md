@@ -26,4 +26,4 @@ A front end developer from Germany.
 
 ---
 
-Below you can see my popular repositories and find out more about my GitHub page.
+Below you can see my pinned repositories and find out more about my GitHub page.
