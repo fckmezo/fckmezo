@@ -10,7 +10,7 @@ A front end developer from Germany.
   <a href="https://www.reddit.com/u/fckmezo">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
-  <a href="https://discord.gg/S8yFZ5VvKH">
+  <a href="https://discord.gg/wtvrp">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://www.twitter.com/fckmezo">
